@@ -9,7 +9,7 @@
 - 📫 How to reach me **ekpiti10@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> <a href="https://discord.com/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6YHtST0fZrl5--diulryjAZm8oImj6IPlmA&s" alt="discord" width="40" height="40"/> </a> Username: aishaiscute
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tenyyy" alt="tenyyy" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tenyyy](https://github.com/Tenyyy)
+- 👨‍💻 All of my projects are available at [https://github.com/Tenyyy?tab=repositories)
 
 - 📫 How to reach me **ekpiti10@gmail.com**
 

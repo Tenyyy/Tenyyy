@@ -24,7 +24,7 @@
 <div align="left">
 
 [![Email](https://img.shields.io/badge/Email-ekpiti10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ekpiti10@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-Aishaiscute-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-thefeelingsblue-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Tenyyyy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tenyyyy)
 
 </div>

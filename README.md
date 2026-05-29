@@ -13,7 +13,7 @@
 ## 🙋 About Me
 
 - 💻 All of my projects are available **[→ here](https://github.com/Tenyyyy?tab=repositories)**
-- 📫 Reach me at **ekpiti10@gmail.com**
+- 📫 Reach me at **xuebi@bubblemewraids.com**
 - 💬 Discord: **thefeelingsblue**
 - 🌱 Based in **Thailand** — passionate about data, systems & design
 
